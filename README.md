@@ -4,13 +4,6 @@ Ganaraja Maniyoor
 Rahul Batra
 
 
-## Table of Contents
-* [Data Understanding: Data Quality Issues and Initial interpretation of the fields](#general-information)
-* [Cleaning](#technologies-used)
-* [Analysis](#conclusions)
-* [Recommendation](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
@@ -18,15 +11,12 @@ Rahul Batra
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Cleaning
+- Cleaning fields with null-value and having same value
+- Cleaning: Addressing Missing Values
+- Cleaning: Removing Units, Type as Date and Converting to Numerical
+- Cleaning: Standardizing, Fix In-valid fields
+- Cleaning: Derived Variables
 
 
 ## Technologies Used
