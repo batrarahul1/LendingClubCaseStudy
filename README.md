@@ -1,12 +1,14 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club Case Study Assignment by:
+Ganaraja Maniyoor
+Rahul Batra
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Data Understanding: Data Quality Issues and Initial interpretation of the fields](#general-information)
+* [Cleaning](#technologies-used)
+* [Analysis](#conclusions)
+* [Recommendation](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
