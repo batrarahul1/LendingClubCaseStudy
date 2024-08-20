@@ -1,6 +1,7 @@
 # Project Name 
 > Lending Club Case Study Assignment by:
 Ganaraja Maniyoor
+> 
 Rahul Batra
 
 ## General Information
