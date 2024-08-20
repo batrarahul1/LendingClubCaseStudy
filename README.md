@@ -1,5 +1,6 @@
 # Project Name 
 > Lending Club Case Study Assignment by:
+> 
 Ganaraja Maniyoor
 > 
 Rahul Batra
@@ -11,6 +12,7 @@ platform and are assigned an internal grade, based on which interest rates are d
 • Lenders can then decide on whether to lend based on the loan attributes including interest rates.
 • The idea is to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of
 credit loss.
+> 
 Objective:
 • Leveraging EDA (Exploratory Data Analysis), identify additional fields for understanding the consumer and loan
 attributes that influence the loan default status.
@@ -25,9 +27,7 @@ attributes that influence the loan default status.
 
 
 ## Analysis
-- Refer to the pdf presentation attached
+- Refer to the pdf presentation attached for analysis of key fields
 
 ## Recommendation
-Refer to the pdf presentation attached
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+- Refer to the pdf presentation attached
