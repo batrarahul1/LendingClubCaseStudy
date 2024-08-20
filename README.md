@@ -28,6 +28,7 @@ attributes that influence the loan default status.
 
 ## Analysis
 - Refer to the pdf presentation attached for analysis of key fields
+- In the python file refer to section 5.1
 
 ## Recommendation
 - Refer to the pdf presentation attached
